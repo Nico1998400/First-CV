@@ -1,0 +1,117 @@
+.left-side-page {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 38%;
+    background-position: center center;
+    text-align: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("img/jag2.jpg");
+    background-position: left;
+}
+
+.site-title {
+    margin-top: 0;
+    font-family: 'Lusitana', sans-serif;
+    font-size: 50px;
+    line-height: 1;
+    padding-top: 25px;
+    margin-right: 5%;
+}
+
+.site-description {
+    margin-top: -30px;
+    color: #fff;
+    font-style: italic;
+    line-height: 1.2;
+    font-size: 24px;
+    margin-right: 5%;
+    margin-bottom: 60px;
+}
+
+.site-title a {
+    color: rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(77, 77, 77);
+    transition-duration: 2s;
+}
+
+.img { 
+    max-width:100%; 
+    transform: scale(1.0);
+}
+
+.main-nav ul li {
+    list-style: none;
+}
+
+.main-nav ul li a {
+    font-family: 'Lusitana', sans-serif;
+    font-size: 17px;
+    line-height: 1.5;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    margin-right: 5%;
+}
+
+.main-nav ul li a:hover {
+    color: rgb(77, 77, 77);
+    transition-duration: 2s;
+}
+
+.social-media {
+    margin-right: 5%;
+}
+
+.arrow-footer a {
+    color: white;
+}
+
+.arrow-footer a:hover {
+    color: rgb(77, 77, 77);
+    transition-duration: 2s;
+}
+
+.arrow-footer span {
+    padding-left: 10px;
+}
+
+.content {
+    float: right;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 62%;
+}
+
+.right-side-page {
+    padding: 60px 40px;
+    text-align: left;
+    font-family: 'Lusitana', sans-serif;
+    font-size: 17px;
+    line-height: 1.5;
+    color: rgb(77, 77, 77);
+}
+
+img {
+    margin-left: 38%;
+    border-radius: 30%;
+    width: 200px;
+    
+}
+
+.about-me h1 p {
+    text-align: left;
+    font-family: 'Lusitana', sans-serif;
+    font-size: 17px;
+    line-height: 1.5;
+}
